@@ -10,6 +10,5 @@ try to fix merge conflict .
 
 work of dev is not finished
 
-
-conflict
+branch dev: confilt with other developer
 
