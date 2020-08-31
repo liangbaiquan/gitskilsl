@@ -6,3 +6,6 @@ add a new branch named dev
 
 
 try to fix merge conflict ...
+
+
+work of dev is not finished
